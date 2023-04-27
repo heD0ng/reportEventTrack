@@ -1,6 +1,6 @@
 # Raptor
 这是一个埋点SDK
-This is a buried SDK
+This is a buried SDK by hd.
 
 使用方法如下
 The usage is as follows
